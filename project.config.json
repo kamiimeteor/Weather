@@ -37,7 +37,14 @@
 		},
 		"miniprogram": {
 			"current": -1,
-			"list": []
+			"list": [
+				{
+					"id": -1,
+					"name": "Stat on list page",
+					"pathName": "pages/list/list",
+					"scene": null
+				}
+			]
 		}
 	}
 }
